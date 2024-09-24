@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ronineume](https://img.shields.io/badge/ronineume-github-blue?logo=github)](https://github.com/ronineume)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Bachelor's Degree in Data Science, at College of Computing, City University of Hong Kong, Hong Kong.
 
 #### Email
-sli[at]cumt.edu.cn
+mengyanma3-c@my.cityu.edu.hk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Exchange, Computer Science, École polytechnique fédérale de Lausanne (EPFL), 2025 Spring (expected).\
+B.Sc., Data Science, City University of Hong Kong, 2022—2026.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Artificial Intelligence.
 
