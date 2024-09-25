@@ -108,14 +108,3 @@ section .main-body{
         margin: 0;
     }
 }
-
-@media screen and (min-width: 768px) and (max-width: 1024px) {
-    #avatar {
-        float: none; /* 取消浮动 */
-        margin: 0 auto; /* 居中显示 */
-    }
-    #avatar img {
-        height: 150px; /* 调整图片高度 */
-    }
-}
-
