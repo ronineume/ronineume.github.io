@@ -103,15 +103,16 @@ section .main-body{
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
-@media screen and (max-width: 991px) {
-    #avatar {
-        margin: 0;
-    }
-}
-
 /* 在最大宽度为 1024px 的设备上应用不同样式 */
 @media only screen and (max-width: 1024px) {
     body {
         font-size: 18px;
     }
 }
+
+@media screen and (max-width: 991px) {
+    #avatar {
+        margin: 0;
+    }
+}
+
