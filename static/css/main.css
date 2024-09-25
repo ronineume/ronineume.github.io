@@ -108,3 +108,10 @@ section .main-body{
         margin: 0;
     }
 }
+
+/* 在最大宽度为 1024px 的设备上应用不同样式 */
+@media only screen and (max-width: 1024px) {
+    body {
+        font-size: 18px;
+    }
+}
