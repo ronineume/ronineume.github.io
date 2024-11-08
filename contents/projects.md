@@ -1,1 +1,1 @@
-- ongoing projects: SDSC3013 X NLP
+- Ongoing Projects: SDSC3013 X NLP
