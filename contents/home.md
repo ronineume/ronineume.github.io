@@ -5,7 +5,7 @@
 He is currently pursuing a Bachelor's Degree in Data Science, at College of Computing, City University of Hong Kong, Hong Kong.
 
 #### Email
-mengyanma3-c@my.cityu.edu.hk
+ronin.ma@my.cityu.edu.hk
 
 #### Education
 Exchange, Computer Science, The Swiss Federal Institute of Technology in Lausanne (EPFL), 2025 Spring (expected). https://www.epfl.ch/en \
