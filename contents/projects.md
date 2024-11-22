@@ -1,1 +1,1 @@
-- Ongoing Projects: SDSC3013 X NLP
+- Ongoing Projects: SDSC3013 X NLP [link open after 8 Dec](https://github.com/ronineume/X-NLP-Project/blob/main/)
