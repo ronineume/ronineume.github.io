@@ -7,5 +7,5 @@
 # A simple Github Page for academic personal website.
 
 ## Preview
-
+[![Ronin's Homepage](https://img.shields.io/badge/Go%20to%20My%20Homepage-blue?style=flat)](https://ronineume.github.io/)
 https://ronineume.github.io/
