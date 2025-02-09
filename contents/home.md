@@ -12,5 +12,5 @@ Exchange, Computer Science, The Swiss Federal Institute of Technology in Lausann
 B.Sc., Data Science, City University of Hong Kong, 2022—2026. [CityU DS](https://www.ds.cityu.edu.hk)
 
 #### Research Interests
-Computational Physics(Signal Processing), Word Model, Deep Learning, Artificial Intelligence, LLM Reasoning.
+AI for Science, Word Model, Deep Learning, Artificial Intelligence.
 
