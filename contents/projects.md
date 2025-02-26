@@ -1,2 +1,2 @@
-- Ongoing Projects: SDSC3013 X NLP [link](https://github.com/ronineume/X-NLP-Project/blob/main/)
+- SDSC3013 X NLP [link](https://github.com/ronineume/X-NLP-Project/blob/main/)
 - SDSC3006 Credit Prediction by ANN [link](https://github.com/ronineume/Credit_PredictionbyANN)
